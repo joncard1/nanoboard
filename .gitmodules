@@ -1,0 +1,6 @@
+[submodule "nanoboard-firmware"]
+	path = nanoboard-firmware
+	url = git@github.com:joncard1/nanoboard-firmware.git
+[submodule "nanoboard-hardware"]
+	path = nanoboard-hardware
+	url = git@github.com:joncard1/nanoboard-hardware.git
